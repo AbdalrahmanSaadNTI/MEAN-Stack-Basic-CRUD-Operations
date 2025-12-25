@@ -1,0 +1,2 @@
+# MEAN Stack Basic CRUD Operations
+A simple web application using the MEAN stack that allows users to perform basic Create, Read, Update, and Delete (CRUD) operations on a single data model (e.g., a list of tasks or notes). The Express.js backend should provide an API for these operations, and the Angular frontend should display the data and provide forms for user interaction. No authentication or complex styling is required.
